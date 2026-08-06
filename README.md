@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Srinath J
 
-<!--
-**Srinath08-sri/Srinath08-sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building modern web applications and continuously improving my skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🎓 B.Sc. Computer Science
+- 🌱 Continuously learning new technologies
+- 🎯 Interested in building clean and user-friendly applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- MongoDB
+
+---
+
+## 📂 Featured Projects
+
+- 💎 Jewellery ERP System
+- 🌐 Jewellery Website
+- 💼 Portfolio Website
+- 🚀 GitHub Landing Page
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
