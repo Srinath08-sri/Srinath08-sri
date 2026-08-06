@@ -8,7 +8,7 @@ Building modern web applications with clean code and continuous learning. Explor
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. Computer Science Graduate
+- 🎓 B.Sc. Computer Science & Electronics Graduate
 - 🌱 Continuously learning new technologies
 - 💡 Passionate about developing modern and user-friendly applications
 - 🎯 Interested in solving real-world problems through technology
