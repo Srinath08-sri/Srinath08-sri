@@ -101,6 +101,8 @@ A personal portfolio showcasing my skills, education, certifications, projects, 
 
 **Technologies:** HTML, CSS, JavaScript
 
+**Link:** https://srinath08-sri.github.io/srinath-portfolio/
+
 ---
 
 ### 🐙 GitHub Landing Page
